@@ -8,4 +8,4 @@
 29-12-2019  16:52                 0 sai.txt
 29-12-2019  16:46               345 test.txt
                2 File(s)            345 bytes
-               2 Dir(s)  401,760,972,800 bytes free
+               2 Dir(s)  401,760,972,800 bytes free.
